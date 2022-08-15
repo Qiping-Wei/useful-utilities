@@ -1,4 +1,4 @@
-# useful-utilities
+# useful utilities
 
 #### [pandas.DataFrame](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.dtypes.html)
 
